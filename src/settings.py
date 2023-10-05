@@ -15,7 +15,7 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "Alfalfa Roots"
 PROJECT_NAME_FULL: str = "Alfalfa Roots: Data for Manuscript on Objective Phenotyping of Alfalfa Roots"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##

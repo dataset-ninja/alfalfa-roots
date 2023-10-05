@@ -1,6 +1,6 @@
 Dataset **Alfalfa Roots** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/P/2/gk/zoBdA4v4KVT5XF4bMxGWkYdpT82IggREVg3vMjqK3wI5ocf9hXgm8niObWcOjwhjn31O7t1RnCjdRWwbOFPZ1hBrtW07O8vPiTaCRpx90KYbwR2j4r8ALh1omhr3.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
