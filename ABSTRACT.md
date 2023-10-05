@@ -2,10 +2,8 @@ In the realm of root system architecture (RSA) phenotyping, dedicated breeding p
 
 Alfalfa, scientifically known as Medicago sativa L. or lucerne, is a perennial forage crop of widespread cultivation. It offers several years of soil coverage and accumulates belowground biomass over time. Alfalfa boasts an extensive root system capable of extracting water and nutrients from depths of up to 6 meters. This deep root system plays a pivotal role in carbon sequestration and can also fix a substantial amount of nitrogen through biological nitrogen fixation. However, breeding efforts have primarily focused on aboveground traits, lagging behind in the selection of root system architecture (RSA) traits. The plasticity of root morphology in soil and the challenge of measuring RSA traits have contributed to this gap.
 
-The study utilized five alfalfa populations created based on RSA types through cycles of phenotypic selection. The populations included (a) branch root, (b) taproot, and (c) intermediate root types:
+The study utilized five alfalfa populations created based on RSA types through cycles of phenotypic selection. The populations included: a) branch root, b) taproot, and c) intermediate root types:
 
 <img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/bfaa7440-1444-4d0e-b638-b0ec9b8990ea" alt="image" width="800">
 
 To segment roots from the background in the images, the RootPainter software was employed, and a neural network was trained for batch segmentation. The segmented images were then converted to binary format for further analysis. RhizoVision Explorer was used for feature extraction, generating data on various root traits. These traits included tip number, branch number, branching density, length, area, volume, number of roots, root system width and depth, convex hull area, number, and area of holes, angle frequencies, average, median, and maximum diameter, as well as length, surface area, and volume within specific diameter ranges.
-
-This comprehensive dataset and analysis approach enable precise and objective classification of RSA phenotypes, contributing to the genomic breeding of alfalfa with enhanced climate resilience.
