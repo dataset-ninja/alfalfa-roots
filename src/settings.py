@@ -60,6 +60,7 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
 CITATION_URL: Optional[str] = "https://zenodo.org/record/5879779/export/hx"
 AUTHORS: Optional[List[str]] = ["Zhanyou Xu", "Larry M. York", "Anand Seethepalli", "Bruna Bucciarelli", "Hao Cheng",  "Deborah A. Samac" ]
+AUTHORS_CONTACTS: Optional[List[str]] = ["vog.adsu@ux.uoynahz","vog.lnro@mlkroy"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "USA joint research group"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9012978/"
@@ -113,6 +114,7 @@ def get_settings():
     settings["repository"] = REPOSITORY
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
