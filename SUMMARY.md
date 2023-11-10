@@ -1,4 +1,4 @@
-**Alfalfa Roots: Data for Manuscript on Objective Phenotyping of Alfalfa Roots** is a dataset for a semantic segmentation task. It is used in the biological research. 
+**Alfalfa Roots: Data for Manuscript on Objective Phenotyping of Alfalfa Roots** is a dataset for semantic segmentation and unsupervised learning tasks. It is used in the biological research. 
 
 The dataset consists of 617 images with 617 labeled objects belonging to 1 single class (*root*).
 
